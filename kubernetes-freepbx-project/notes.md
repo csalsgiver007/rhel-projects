@@ -87,5 +87,3 @@ Real-time Call Logs: kubectl exec -it [pod-name] -- asterisk -rvvvvv
 [ ] Configure SIP Trunk for external calling.
 
 [ ] Verify Longhorn snapshot schedule for backups.
-
-[ ] Finalize the "Architect" simulation game database integration.
